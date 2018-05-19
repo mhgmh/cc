@@ -1,0 +1,125 @@
+<!DOCTYPE html><html><head><meta charset=utf-8><title>德牧杜宾泳池派对，胆小鬼德牧水都不敢下</title><meta http-equiv=x-dns-prefetch-control content=on><link rel=dns-prefetch href=//s3.pstatp.com/ ><link rel=dns-prefetch href=//s3a.pstatp.com/ ><link rel=dns-prefetch href=//s3b.pstatp.com><link rel=dns-prefetch href=//p1.pstatp.com/ ><link rel=dns-prefetch href=//p3.pstatp.com/ ><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1"><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,minimal-ui"><meta name=baidu-site-verification content=cqXjwiZArT><link rel="shortcut icon" href=//s3.pstatp.com/toutiao/resource/ntoutiao_web/static/image/ygvideo/favicon_befd1e2.ico type=image/x-icon><link rel=stylesheet href=//s3.pstatp.com/toutiao/video_player/dist/tt-video.css media=screen title="no title"><meta name=pathname content=ixigua_pc_detail><meta name=slardar-id content=ixigua_pc.detail><script src=//s3.pstatp.com/toutiao/monitor/sdk/slardar.js></script><link rel=stylesheet href=//s3.pstatp.com/toutiao/xigua_video/pc/static/css/page/video-detail/video-detail.6333682170a557027babe271874b3463.css><script>!function(e){function t(a){if(o[a])return o[a].exports;var r=o[a]={exports:{},id:a,loaded:!1};return e[a].call(r.exports,r,r.exports,t),r.loaded=!0,r.exports}var a=window.webpackJsonp;window.webpackJsonp=function(n,p){for(var c,i,s=0,l=[];s<n.length;s++)i=n[s],r[i]&&l.push.apply(l,r[i]),r[i]=0;for(c in p)Object.prototype.hasOwnProperty.call(p,c)&&(e[c]=p[c]);for(a&&a(n,p);l.length;)l.shift().call(null,t);if(p[0])return o[0]=0,t(0)};var o={},r={0:0};t.e=function(e,a){if(0===r[e])return a.call(null,t);if(void 0!==r[e])r[e].push(a);else{r[e]=[a];var o=document.getElementsByTagName("head")[0],n=document.createElement("script");n.type="text/javascript",n.charset="utf-8",n.async=!0,n.src=t.p+"static/js/"+e+"."+{1:"4d85b9b181d2b3ae1d6d",2:"48ef467dc9171989c451",3:"15828889172fe419a228"}[e]+".js",o.appendChild(n)}},t.m=e,t.c=o,t.p="/toutiao/xigua_video/pc/",t.p="//s3.pstatp.com/toutiao/xigua_video/pc/"}([]);</script></head><body><div id=app></div><script src='//s2.pstatp.com/growth/confucius/confs/toutiao.web.toutiao_pc-pc-fe_switch.js?t=05191500'></script><script>var PAGE_SWITCH = window['toutiao.web.toutiao_pc/pc/fe_switch'] || {};</script><script></script><script>window.isNewPlayer = 0;
+  var siblingList;
+  try {
+    siblingList = [{"comments_count":44,"media_avatar_url":"http:\/\/p7.pstatp.com\/large\/4015000092a621b0a8c7","is_feed_ad":false,"is_diversion_page":false,"title":"\u628a\u4e8c\u54c8\u548c\u85cf\u7352\u5173\u5728\u4e00\u8d77\uff0c\u7ed3\u679c\u4f1a\u600e\u4e48\u6837\uff1f\u51fa\u4eba\u610f\u6599\uff01","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"01:21","source_url":"\/group\/6547630069009875469\/","source":"\u53c8\u5728\u9a97\u6211\u517b\u5ba0\u7269","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":89121,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/pgc-image\/15244885166242e2e13f29f","group_id":"6547630069009875469","is_related":true,"media_url":"\/c\/user\/61084297441\/"},{"comments_count":201,"media_avatar_url":"http:\/\/p3.pstatp.com\/large\/3e6900012d96e072c85f","is_feed_ad":false,"is_diversion_page":false,"title":"\u519b\u72ac\u5927\u95e8\u62d2\u7edd\u6536\u7f16\u7684\u516d\u79cd\u72ac\u7c7b\uff1a\u4f60\u5bb6\u91cc\u7684\u6bdb\u5b69\u5b50\u8fdb\u9ed1\u540d\u5355\u6ca1\uff1f","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"01:41","source_url":"\/group\/6536046484054344205\/","source":"\u5c0f\u9f9f\u52a8\u7269","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":137239,"image_url":"http:\/\/p1.pstatp.com\/list\/300x170\/pgc-image\/1521791729813172a86327c","group_id":"6536046484054344205","is_related":true,"media_url":"\/c\/user\/67399130366\/"},{"comments_count":4575,"media_avatar_url":"http:\/\/p10.pstatp.com\/large\/6ee3000068250ad3935a","is_feed_ad":false,"is_diversion_page":false,"title":"\u4e3b\u4eba\u5047\u88c5\u6655\u5012\uff0c\u6d4b\u8bd5\u4e2d\u534e\u7530\u56ed\u72ac\u7684\u53cd\u5e94\uff0c\u5c0f\u767d\u963f\u9ec4\u4e0d\u8d1f\u6240\u671b\uff01","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"04:01","source_url":"\/group\/6528556826873561613\/","source":"\u62ef\u6551\u4e2d\u534e\u7530\u56ed\u72ac","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":944441,"image_url":"http:\/\/p1.pstatp.com\/list\/300x170\/66c20005470b829348b5","group_id":"6528556826873561613","is_related":true,"media_url":"\/c\/user\/6865542537\/"},{"comments_count":15,"media_avatar_url":"http:\/\/p4.pstatp.com\/large\/40000000c19e228abd00","is_feed_ad":false,"is_diversion_page":false,"title":"\u4ed6\u517b\u4e8620\u5e74\u7684\u9ed1\u718a\uff0c\u8868\u8fbe\u4eb2\u5bc6\u7684\u65b9\u5f0f\u5f88\u7279\u522b\uff1a\u628a\u4e3b\u4eba\u7684\u624b\u542b\u8fdb\u5634\u91cc\uff01","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"02:14","source_url":"\/group\/6524131434481844743\/","source":"\u62fe\u5206\u5bfb\u8da3","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":28588,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/66a300032978da23309f","group_id":"6524131434481844743","is_related":true,"media_url":"\/c\/user\/54596040034\/"},{"comments_count":235,"media_avatar_url":"http:\/\/p8.pstatp.com\/large\/289c001a9f77857a420c","is_feed_ad":false,"is_diversion_page":false,"title":"\u5b9e\u62cd\u519c\u6751\u72d7\u5e02\uff0c3000\u5143\u4e00\u53ea\u7684\u8fd9\u79cd\u72ac\uff0c\u8033\u6735\u51b3\u5b9a\u72d7\u72d7\u7684\u54c1\u76f8\u548c\u4ef7\u683c\uff01","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"03:28","source_url":"\/group\/6531846093775307277\/","source":"\u6211\u7684\u519c\u6751365","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":497161,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/6ed50001814d046e80db","group_id":"6531846093775307277","is_related":true,"media_url":"\/c\/user\/59318056641\/"},{"comments_count":613,"media_avatar_url":"http:\/\/p2.pstatp.com\/large\/2c62000a25ca3c6cfaf3","is_feed_ad":false,"is_diversion_page":false,"title":" \u519c\u6751\u72d7\u5e02\u4ef7\u683c\u771f\u9ad8\uff0c\u542c\u5230\u8fd9\u4ef7\u683c\uff0c\u6211\u7acb\u9a6c\u540e\u9000\u4e09\u6b65\uff01","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"03:28","source_url":"\/group\/6530981583602582019\/","source":"\u519c\u6751\u5c0f\u7f57","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":201342,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/pgc-image\/152061253694610668c1c6d","group_id":"6530981583602582019","is_related":true,"media_url":"\/c\/user\/63906841988\/"},{"comments_count":254,"media_avatar_url":"http:\/\/p3.pstatp.com\/large\/411000ceaef12df2fb1","is_feed_ad":false,"is_diversion_page":false,"title":"\u4fc4\u7537\u5b50\u6536\u517b\u7f8e\u6d32\u72ee\u505a\u5ba0\u7269\uff0c\u8fd8\u9001\u5b83\u53bb\u4e0a\u5b66\uff0c\u5413\u5f97\u4e8c\u54c8\u540c\u5b66\u4e0d\u6562\u76f4\u89c6","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"01:37","source_url":"\/group\/6530196504634720771\/","source":"\u732a\u8089\u738b\u5b50\u96f6\u96f6\u6f06","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":386922,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/6c370001e2a8c74f6d77","group_id":"6530196504634720771","is_related":true,"media_url":"\/c\/user\/6448972759\/"},{"comments_count":35,"media_avatar_url":"http:\/\/p1.pstatp.com\/large\/6ee50005192e5c622973","is_feed_ad":false,"is_diversion_page":false,"title":"\u4e00\u53ea\u72d7\u72d7\u8bad\u7ec3\u5f97\u597d\u574f\uff0c\u5176\u5b9e\u4e0d\u662f\u72d7\u72d7\u672c\u8eab\u800c\u662f\u65b9\u6cd5\uff0c\u8fd9\u4e2a\u6559\u7a0b\u503c1\u4e07","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"03:25","source_url":"\/group\/6550159347626803726\/","source":"\u9ed1\u54e5\u5ba0\u7269","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":14477,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/pgc-image\/15250774363353ed1b169d8","group_id":"6550159347626803726","is_related":true,"media_url":"\/c\/user\/72408980015\/"},{"comments_count":11,"media_avatar_url":"http:\/\/p3.pstatp.com\/large\/66c500028dc32a0e86de","is_feed_ad":false,"is_diversion_page":false,"title":"\u72d7\u5988\u751f\u51fa\u4e00\u7fa4\u6076\u9738\u72d7\uff0c\u5168\u90fd\u662f\u808c\u8089\u7537\uff0c\u7ad9\u4e00\u8d77\u770b\u7740\u597d\u5a01\u98ce\uff01","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"01:02","source_url":"\/group\/6549794564272554510\/","source":"\u5c0f\u732a\u840c\u5ba0","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":48605,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/pgc-image\/15249928539253f9d9de212","group_id":"6549794564272554510","is_related":true,"media_url":"\/c\/user\/67541328925\/"},{"comments_count":91,"media_avatar_url":"http:\/\/p3.pstatp.com\/large\/3b05000142e6e42a568e","is_feed_ad":false,"is_diversion_page":false,"title":"\u4e3a\u4ec0\u4e48\u54c8\u58eb\u5947\u4e0d\u80fd\u5f53\u8b66\u72ac\uff1f\u56e0\u4e3a\u7b28\uff1f\u90a3\u4f60\u5c31\u9519\u4e86\uff01","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"01:29","source_url":"\/group\/6546839916163105284\/","source":"\u5c9a\u83f2\u89c6\u9891","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":94301,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/pgc-image\/15243035228575aa0dd7823","group_id":"6546839916163105284","is_related":true,"media_url":"\/c\/user\/69641293798\/"},{"comments_count":356,"media_avatar_url":"http:\/\/p7.pstatp.com\/large\/4015000092a621b0a8c7","is_feed_ad":false,"is_diversion_page":false,"title":"\u91d1\u6bdb\u78b0\u74f7\u4e3b\u4eba\uff1a\u6211\u5c31\u8981\u5403\u8089\u8089\uff0c\u8bf4\u4ec0\u4e48\u4e5f\u4e0d\u597d\u4f7f","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"01:24","source_url":"\/group\/6553977786078331400\/","source":"\u53c8\u5728\u9a97\u6211\u517b\u5ba0\u7269","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":875949,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/pgc-image\/15259665161080278a93d8c","group_id":"6553977786078331400","is_related":true,"media_url":"\/c\/user\/61084297441\/"},{"comments_count":14,"media_avatar_url":"http:\/\/p6.pstatp.com\/large\/5b56000135cf839bb7f0","is_feed_ad":false,"is_diversion_page":false,"title":"\u5c0f\u4f19\u73b0\u573a\u5256\u6790\u72d7\u72d7\u7684\u5fc3\u7406\uff01\u9972\u517b\u5458\u4eec\u5b66\u8d77\u6765\u5427\uff01","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"01:25","source_url":"\/group\/6534472023555441156\/","source":"\u8fbd\u5b81\u4e2d\u56fd\u597d\u5bb6\u5ead","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":56551,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/70030009d34bad6fbff3","group_id":"6534472023555441156","is_related":true,"media_url":"\/c\/user\/88069697474\/"},{"comments_count":215,"media_avatar_url":"http:\/\/p10.pstatp.com\/large\/36410011e00475369e99","is_feed_ad":false,"is_diversion_page":false,"title":"\u85cf\u7352\u4e0d\u662f\u70ab\u5bcc\u7684\u727a\u7272\u54c1\uff0c\u6b63\u662f\u4f60\u4eec\u7684\u4e0d\u8d1f\u8d23\u624d\u9020\u5c31\u5b83\u4eec\u73b0\u5728\u7684\u60e8\u72b6\uff01","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"02:24","source_url":"\/group\/6529740056230363662\/","source":"\u75af\u72c2\u7684\u5c0f\u72d7CrazyDog","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":246526,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/6c2c00056efffcf78233","group_id":"6529740056230363662","is_related":true,"media_url":"\/c\/user\/6337542941\/"},{"comments_count":29,"media_avatar_url":"http:\/\/p10.pstatp.com\/large\/6ee4000437f1b49abc2a","is_feed_ad":false,"is_diversion_page":false,"title":"\u72d7\u72d7\u5728\u7f8e\u56fd\u5730\u4f4d\u771f\u9ad8\uff01\u62f4\u72d730\u5206\u949f\u5c31\u7b97\u8fdd\u6cd5\uff01","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"01:26","source_url":"\/group\/6539023230038966798\/","source":"\u521b\u4e00\u79d1\u8bba","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":4111,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/pgc-image\/15224849514674f0b014493","group_id":"6539023230038966798","is_related":true,"media_url":"\/c\/user\/63477125788\/"},{"comments_count":3,"media_avatar_url":"http:\/\/p1.pstatp.com\/large\/46d1000177f8fc4d5004","is_feed_ad":false,"is_diversion_page":false,"title":"\u519c\u6751\u5927\u7237\u72d7\u5e02\u5356\u9632\u66b4\u72ac\u8bb2\u8bda\u4fe1\uff0c300\u5143\u7ed9\u4eba\u7559\u7684\u591a\u5c11\u4e0d\u5356","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"02:11","source_url":"\/group\/6555840584399979011\/","source":"\u8c6b\u4e1c\u5c0f\u4f1f","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":13635,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/84250001d642ac387a83","group_id":"6555840584399979011","is_related":true,"media_url":"\/c\/user\/64448398032\/"},{"comments_count":467,"media_avatar_url":"http:\/\/p1.pstatp.com\/large\/1a6c0012426415d6df6a","is_feed_ad":false,"is_diversion_page":false,"title":"\u300a\u5fe0\u72ac\u516b\u516c\u7684\u6545\u4e8b\u300b\uff1a\u6211\u7528\u4f59\u751f\uff0c\u5374\u59cb\u7ec8\u6ca1\u6709\u7b49\u5230\u4f60","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"04:20","source_url":"\/group\/6548694144968032772\/","source":"\u6c34\u6bcd\u7535\u5f71","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":68065,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/pgc-image\/1524736470757333b1df1c7","group_id":"6548694144968032772","is_related":true,"media_url":"\/c\/user\/58974589987\/"},{"comments_count":4,"media_avatar_url":"http:\/\/p3.pstatp.com\/large\/834e001009bfea465c18","is_feed_ad":false,"is_diversion_page":false,"title":"\u72d7\u5e02\u4e0a\u8fd9\u5934\u963f\u62c9\u65af\u52a0\u96ea\u64ac\u72ac\u4e3b\u4eba\u53ea\u8981\u4e8c\u5343\u516b\uff0c\u61c2\u72d7\u7684\u8bf4\u8d35\u4e0d\u8d35\uff1f","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"01:26","source_url":"\/group\/6535323553200341507\/","source":"\u82d7\u5cad\u98de\u6b4c","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":7658,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/pgc-image\/15216234840814be1a6ad01","group_id":"6535323553200341507","is_related":true,"media_url":"\/c\/user\/3706856761\/"},{"comments_count":22,"media_avatar_url":"http:\/\/p3.pstatp.com\/large\/834e001009bfea465c18","is_feed_ad":false,"is_diversion_page":false,"title":"\u6709\u4eba\u8bf4\u8fd9\u72d7\u503c\u4e94\u5343\u5757\u94b1\uff0c\u6709\u4eba\u8bf4\u8fd9\u72d7\u592a\u4e11\u767d\u7ed9\u90fd\u4e0d\u8981\uff0c\u8fd9\u662f\u4ec0\u4e48\u72d7\uff1f","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"02:34","source_url":"\/group\/6536345694100259342\/","source":"\u82d7\u5cad\u98de\u6b4c","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":28779,"image_url":"http:\/\/p1.pstatp.com\/list\/300x170\/pgc-image\/15218614648254a152ba44d","group_id":"6536345694100259342","is_related":true,"media_url":"\/c\/user\/3706856761\/"},{"comments_count":15,"media_avatar_url":"http:\/\/p3.pstatp.com\/large\/3e6900012d96e072c85f","is_feed_ad":false,"is_diversion_page":false,"title":"\u5ba0\u7269\u5e97\u8001\u677f\u517b\u4e86\u53ea\u62c9\u5e03\u62c9\u591a\uff0c\u7ed9\u5b83\u5243\u4e86\u6bdb\u4e4b\u540e\uff0c\u770b\u5230\u7684\u90fd\u8bf4\u806a\u660e\uff01","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"01:00","source_url":"\/group\/6535289727501730317\/","source":"\u5c0f\u9f9f\u52a8\u7269","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":38797,"image_url":"http:\/\/p1.pstatp.com\/list\/300x170\/pgc-image\/1521615434301143fcd1eca","group_id":"6535289727501730317","is_related":true,"media_url":"\/c\/user\/67399130366\/"},{"comments_count":30,"media_avatar_url":"http:\/\/p1.pstatp.com\/large\/6ee50005192e5c622973","is_feed_ad":false,"is_diversion_page":false,"title":"\u60f3\u8ba9\u5e7c\u72ac\u5feb\u901f\u5b9a\u70b9\u5927\u5c0f\u4fbf\uff0c\u4f60\u5c31\u5f97\u8fd9\u4e48\u505a","single_mode":true,"gallary_image_count":0,"middle_mode":false,"has_video":true,"video_duration_str":"01:34","source_url":"\/group\/6532075492835590663\/","source":"\u9ed1\u54e5\u5ba0\u7269","more_mode":null,"article_genre":"video","has_gallery":false,"video_play_count":24138,"image_url":"http:\/\/p3.pstatp.com\/list\/300x170\/pgc-image\/152086575865476d5071d0c","group_id":"6532075492835590663","is_related":true,"media_url":"\/c\/user\/72408980015\/"}];
+    if(siblingList) {
+      var comment;
+      siblingList = siblingList.map(function(item, index){
+        comment = (item.comments_count + '').replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+        return {
+          link: item.source_url,
+          img: item.image_url,
+          title: item.title,
+          duration: item.video_duration_str,
+          play: item.video_play_count,
+          comments: comment
+        }
+      });
+    } else {
+      siblingList = [];
+    }
+  } catch (e) {
+    siblingList = [];
+  }
+
+  var BASE_DATA = {
+    headerInfo: {
+      id: 0,
+      isPgc: false,
+      userName: '',
+      avatarUrl: '',
+      isHomePage: false,
+      chineseTag: '视频',
+      crumbTag: 'video',
+      hasBar: true
+    },
+    playerInfo: {
+      videoId: '7e4fb7017eb440c88608aa2dbcfdd2e8'
+    },
+    siblings: siblingList,
+    shareInfo: {
+      abstract: '德牧杜宾泳池派对，胆小鬼德牧水都不敢下',
+      shareUrl: 'http://www.365yg.com/group/6467785509782422030/',
+      groupId: '6467785509782422030',
+      itemId: '6467785509782422030',
+      // 出现错误, 先删除
+      // aggrType: ,
+      buryCount: 1,
+      diggCount: 2,
+      isBury: 0,
+      isDigg: 0,
+      isRepin: 0
+    },
+    abstractInfo: {
+      isOriginal: false,
+      title: '德牧杜宾泳池派对，胆小鬼德牧水都不敢下',
+      content: '&lt;p&gt;&lt;/p&gt;&lt;p&gt;德牧杜宾泳池派对，胆小鬼德牧水都不敢下&lt;/p&gt;',
+      mediaUrl: '/c/user/6666430520/',
+      mediaId: '6666430520',
+      avatarUrl: 'http://p9.pstatp.com/thumb/412001fa75e5dac8627',
+      name: '爱秀萌犬',
+      videoPlayCount: 515,
+      follow: false,
+      isSelf: false,
+      groupId: '6467785509782422030'
+    },
+    commentInfo: {
+      groupId: '6467785509782422030',
+      itemId: '6467785509782422030',
+      count: 0,
+      banComment: 0
+    },
+    userInfo: {
+      id: 0,
+      name: '',
+      avatarUrl: '',
+      isPgc: false,
+      isOwner: '' === '6667396905'
+    },
+    feedInfo: {
+      url: '/api/pc/feed/',
+      category: 'video',
+      qhAdSupport: false,
+      initList: []
+    }
+  };</script><script>var imgUrl = '';
+  try {
+    var mid = BASE_DATA.abstractInfo.mediaId;
+    if (!location.hash) {
+      location.hash = 'mid=' + mid;
+    }
+  } catch (err) {
+    // console.error(err);
+  }</script><script src=//s3.pstatp.com/toutiao/video_player/dist/tt-video.js crossorigin=anonymous charset=utf-8></script><script type=text/javascript src=//s3a.pstatp.com/toutiao/xigua_video/pc/static/js/vendor.4d85b9b181d2b3ae1d6d.js></script><script type=text/javascript src=//s3a.pstatp.com/toutiao/xigua_video/pc/static/js/page/video-detail/video-detail.48ef467dc9171989c451.js></script><script type=text/javascript src=//s3b.pstatp.com/toutiao/xigua_video/pc/static/js/ttstatistics.15828889172fe419a228.js></script><script>// 设置ga的sample rate
+  var _gaq = _gaq || [];
+  _gaq.push(['_setSampleRate', '20']);
+
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+  ga('create', 'UA-89504546-4', { sampleRate: '5' });
+  ga('send', 'pageview');</script><style>a[href^='http://www.cnzz.com/stat'] {
+    display: none!important;
+  }</style><script src="https://s22.cnzz.com/z_stat.php?id=1262382642&web_id=1262382642" language=JavaScript></script><script>if (window.Raven) {
+    window.Raven.config('//0355d7f3eda849d296aaad9a4eec0a00@m.toutiao.com/log/sentry/v2/112', {tags: {
+        bid: 'ixigua_pc',
+        pid: 'detail'
+    }}).install();
+    // Raven.config('http://62363b44f1024dd0a59152ca3069b29d@sentry-server.sentry.m.byted.org/77', {}).install();
+  }</script><script>// 示例
+window.Slardar && window.Slardar.install({
+    sampleRate: 1,     // 采样率 (0, 1]
+    bid: 'ixigua_pc', // 业务标识
+    pid: 'detail',  // 页面标识
+    ignoreAjax: [],    // 无需监控的ajax url规则集
+    ignoreStatic: [/mediav\.com/, /meimotuan\.com/, /comments8\.com/, /baidu\.com/, /google-analytics\.com/, /dist\/vtt\.js/]   // 无需监控的静态资源 url规则集
+});</script></body></html>
